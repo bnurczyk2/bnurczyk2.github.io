@@ -1,9 +1,18 @@
 ---
-title: "About"
+title-block-style: none
 ---
 
-About this site
+## Education
 
-```{r}
-1 + 1
-```
+University of Florida | Gainesville, FL  
+**B.S. in Statistics** (Minors in Mathematics, Health Disparities) | May 2027
+
+
+
+## Experience
+
+UF SEER Lab | Undergraduate Research Assistant | May 2023 - present
+
+
+
+

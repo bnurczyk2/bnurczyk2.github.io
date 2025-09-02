@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "bnurczyk2.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Bryn Nurczyk",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "University of Florida | Gainesville, FL\nB.S. in Statistics (Minors in Mathematics, Health Disparities) | May 2027"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bryn Nurczyk",
+    "section": "",
+    "text": "Taken at Guana Tolomato Matanzas National Estuarine Research Reserve\n\n\nHi there 🦆 you’ve reached my personal website!\nI’m a third year B.S. Statistics student @ the University of Florida. Here you’ll find information about projects (new and old) and previous or in-progress publications. I also host my photography and artistic work here. :)\nDownload my CV here"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bryn Nurczyk",
+    "section": "Education",
+    "text": "Education\nUniversity of Florida | Gainesville, FL B.S. in Statistics (Minors in Mathematics, Health Disparities) | May 2027"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Bryn Nurczyk",
+    "section": "Experience",
+    "text": "Experience\nUF SEER Lab | Undergraduate Research Assistant | May 2023 - present"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Bryn Nurczyk",
+    "section": "",
+    "text": "University of Florida | Gainesville, FL\nB.S. in Statistics (Minors in Mathematics, Health Disparities) | May 2027"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Bryn Nurczyk",
+    "section": "Experience",
+    "text": "Experience\nUF SEER Lab | Undergraduate Research Assistant | May 2023 - present"
   }
 ]

@@ -1,1 +1,25 @@
 /* css styles */
+/* Navbar background */
+.navbar {
+  background-color: #191a1b !important;
+}
+
+/* Navbar links */
+.navbar a {
+  color: #B3B3B3 !important;
+}
+
+/* Links */
+a {
+  color: #535B64;
+}
+
+a:hover {
+  color: #C62828;
+}
+
+body {
+  color: #B3B3B3;
+  background-color: #222426;  /* light gray */
+}
+

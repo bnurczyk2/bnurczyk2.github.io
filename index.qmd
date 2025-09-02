@@ -1,11 +1,24 @@
 ---
-title: "bnurczyk2.github.io"
+#title: "my personal website"
+#image: duck.jpg
+toc: false
+about:
+  template: marquee
+  links:
+    - text: LinkedIn
+      icon: bi-linkedin
+      href: https://www.linkedin.com/in/bnurczyk/
+    - text: GitHub
+      icon: bi-github
+      href: https://github.com/bnurczyk2
+    - text: Email
+      icon: bi-envelope
+      href: mailto:bnurczyk@ufl.edu
 ---
+![taken at Guana Tolomato Matanzas National Estuarine Research Reserve](fence.jpg){fig-align="center"}
 
-This is a Quarto website.
+Hi there 🦆 you've reached my personal website! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a third year B.S. Statistics student @ **the University of Florida**. Here you'll find information about projects (new and old) and previous or in-progress publications. I also host my photography and artistic work here. :)
 
-```{r}
-1 + 1
-```
+**[Download my CV here.](cv.pdf)**

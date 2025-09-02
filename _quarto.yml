@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "bnurczyk2.github.io"
+  title: "Bryn Nurczyk"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - projects.qmd
+      - publications.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
     css: styles.css
     toc: true
 
